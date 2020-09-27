@@ -1,0 +1,2 @@
+# fer-salinas-REPORTE_02_SALINAS_MARIA-p
+Conforme  a  la  Introducci ́on  al  an ́alisis  de  Datos  con  Python  vistos  y  dado  un  entorno  de  tra-bajo para el an ́alisis y clasificaci ́on de datos se crea un segundo programa para Synergy Logisticsuna empresa dedicada a la intermediaci ́on de servicios de importaci ́on y exportaci ́on de diferentesproductos. Se realiza una propuesta para enfocar prioridades de la siguiente estrategia operativa del2021. Se dieron a desarrollar tres casos para elegir la opci ́on que conveniente implementar como baseal objetivo
